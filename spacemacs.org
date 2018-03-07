@@ -1,0 +1,32 @@
+#+TITLE: Spacemacs Notes
+#+AUTHOR: jkw
+#+DATE: 101117
+#+EMAIL: kwedmark@outlook.com
+#+VERSION: 0.0.2
+* Changes
+Prefixes: + added, - deleted, ! bugfix, @ request
+** 0.0.2
+*** + keybind to toggle neotree.
+
+** 0.0.1
+*** + Initial creation of the document.
+* Description
+This file is made for own reference and to help others getting
+started with Spacemacs keybindings with Vim-mode.
+
+* Keybindings
+**
+| Keybind   | Description                                 |
+|-----------+---------------------------------------------|
+| SPC f e d | Open Spacemacs config.                      |
+| SPC f t   | Toggle Neotree filetree.                    |
+| SPC SPC   | Fuzzyfinder (think ctrl+p in other editors) |
+| SPC w TAB | Think alt tab trough buffers.               |
+| SPC f f   | Find file                                   |
+| SPC q r   | Restart emacs and resume layout             |
+| SPC a i e | Starts ERC in buffer                        |
+| SPC f s   | Saves current buffer                        |
+| SPC b b   | Shows list of buffers                       |
+| SPC b d   | Delete current buffer                       |
+| Alt <num> | Swap to that window (number in left corner) |
+| /         | Search in current buffer                    |
