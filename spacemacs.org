@@ -19,14 +19,14 @@ started with Spacemacs keybindings with Vim-mode.
 | Keybind   | Description                                 |
 |-----------+---------------------------------------------|
 | ~SPC f e d~ | Open Spacemacs config.                      |
-| SPC f t   | Toggle Neotree filetree.                    |
-| SPC SPC   | Fuzzyfinder (think ctrl+p in other editors) |
-| SPC w TAB | Think alt tab trough buffers.               |
-| SPC f f   | Find file                                   |
-| SPC q r   | Restart emacs and resume layout             |
-| SPC a i e | Starts ERC in buffer                        |
-| SPC f s   | Saves current buffer                        |
-| SPC b b   | Shows list of buffers                       |
-| SPC b d   | Delete current buffer                       |
-| Alt <num> | Swap to that window (number in left corner) |
-| /         | Search in current buffer                    |
+| ~SPC f t~   | Toggle Neotree filetree.                    |
+| ~SPC SPC~   | Fuzzyfinder (think ctrl+p in other editors) |
+| ~SPC w TAB~ | Think alt tab trough buffers.               |
+| ~SPC f f~   | Find file                                   |
+| ~SPC q r~   | Restart emacs and resume layout             |
+| ~SPC a i e~ | Starts ERC in buffer                        |
+| ~SPC f s~   | Saves current buffer                        |
+| ~SPC b b~   | Shows list of buffers                       |
+| ~SPC b d~   | Delete current buffer                       |
+| ~Alt <num>~ | Swap to that window (number in left corner) |
+| ~/~         | Search in current buffer                    |
