@@ -15,8 +15,7 @@ This file is made for own reference and to help others getting
 started with Spacemacs keybindings with Vim-mode.
 
 * Keybindings
-**
-| Keybind   | Description                                 |
+| Keys   | Description                                 |
 |-----------+---------------------------------------------|
 | ~SPC f e d~ | Open Spacemacs config.                      |
 | ~SPC f t~   | Toggle Neotree filetree.                    |
