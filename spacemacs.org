@@ -18,7 +18,7 @@ started with Spacemacs keybindings with Vim-mode.
 **
 | Keybind   | Description                                 |
 |-----------+---------------------------------------------|
-| SPC f e d | Open Spacemacs config.                      |
+| ~SPC f e d~ | Open Spacemacs config.                      |
 | SPC f t   | Toggle Neotree filetree.                    |
 | SPC SPC   | Fuzzyfinder (think ctrl+p in other editors) |
 | SPC w TAB | Think alt tab trough buffers.               |
